@@ -1,0 +1,2 @@
+# datascience
+beginners luck
